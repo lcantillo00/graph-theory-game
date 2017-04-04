@@ -1,0 +1,25 @@
+
+.row{
+    text-align: center;
+
+
+}
+.dot{
+    display: inline-block;
+margin: 2rem;
+border-radius: 100%;
+width: 10px;
+height: 10px;
+background-color: black;
+
+}
+.full{
+margin: 1.5rem;
+border-radius: 100%;
+width: 20px;
+height: 20px;
+background-color: red;
+}
+.highlight{
+    box-shadow: 0 0 5px 3px #dbd800;
+}
